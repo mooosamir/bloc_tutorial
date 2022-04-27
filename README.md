@@ -11,3 +11,5 @@ A few resources to get you started if this is your first Flutter project:
 ![image description](https://github.com/mooosamir/bloc_tutorial/blob/main/photos_app/01.png)
 ![image description](https://github.com/mooosamir/bloc_tutorial/blob/main/photos_app/02.png)
 ![image description](https://github.com/mooosamir/bloc_tutorial/blob/main/photos_app/03.png)
+
+<img src="https://github.com/mooosamir/bloc_tutorial/blob/main/photos_app/01.png" width="128"/>
